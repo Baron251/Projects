@@ -1,0 +1,16 @@
+/* Image stuffs */
+#img1 {
+    float: right;
+    height: 360px;
+}
+
+.img2 {
+    float: left;
+}
+
+
+
+/* Text stuffs */
+h1{
+    text-align: center;
+}

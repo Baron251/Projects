@@ -1,0 +1,52 @@
+/* TEXT */
+
+h1 {
+    text-align: center;
+}
+
+.Navbar {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    place-items: center;
+    
+}
+
+.bars {
+    background-color: black;
+    
+}
+
+.foot {
+    display: grid;
+    place-items: center;
+    margin: 5%;
+}
+
+/* IMAGES */
+
+.big-image{
+    display: grid;
+    place-items: center;
+}
+
+#Heavensward {
+    height: 25vw;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    place-items: center;
+    
+}
+
+.grid-item {
+    height: 50px;
+    width: 100px;
+    padding: 5em;
+}
+
+img {
+    height: 250px;
+}
+
