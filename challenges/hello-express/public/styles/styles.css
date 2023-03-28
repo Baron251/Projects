@@ -1,0 +1,46 @@
+body{
+    background-color: grey;
+}
+nav{
+    display: flex;
+  justify-content: center;
+  padding-bottom: 5px;
+
+}
+.Navbut {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+footer{
+    margin-top: 100px;
+}
+
+h1{
+text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+/* Bodies of text  */
+p{
+    text-align: center;
+    color: white;
+}
+/* .infop{
+    align-self: ;
+    margin-right: 700px;
+}  */
+
+
+
+/* Images */
+.bingus{
+    display: flex;
+  justify-content: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}

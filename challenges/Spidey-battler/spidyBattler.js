@@ -4,11 +4,11 @@
 
     //  Set Spidy's HP
     //  Create a villain array of villain objects for Spidy to battle
-    // - Make something to randomly pick a villain
-    - Use a do while loop to monitor if the villain's HP is above 0
-    - In the while loop make attacks the effect HP of both Spidy and the Villain
-        - Add some console.logs to give us messages throughout the battle
-    - Create an ending message with a conditional on who won the battle
+    //  Make something to randomly pick a villain
+    // Use a do while loop to monitor if the villain's HP is above 0
+    //  In he while loop make attacks the effect HP of both Spidy and the Villain
+       //  Add some console.logs to give us messages throughout the battle
+    //  Create an ending message with a conditional on who won the battle
 */
 
 
